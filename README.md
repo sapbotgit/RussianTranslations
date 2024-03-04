@@ -6,4 +6,5 @@
 ## Не проверены
 - [https://github.com/MiSTer-devel/Gameboy_MiSTer](https://github.com/MiSTer-devel/Gameboy_MiSTer/pull/248/)
 - [https://github.com/MiSTer-devel/SD-Installer-Win64_MiSTer](https://github.com/MiSTer-devel/SD-Installer-Win64_MiSTer/pull/18)
+- [https://github.com/gd4Ark/star-battle/](https://github.com/gd4Ark/star-battle/pull/3)
 ## Отказаны
